@@ -1,1 +1,2 @@
-My second reademe
+My second readme
+ALX has been amzing
